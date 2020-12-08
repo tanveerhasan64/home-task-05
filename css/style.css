@@ -1,0 +1,43 @@
+
+h1{
+	color: black; 
+	text-align: center; 
+	font-size: 60px;
+}
+table{
+    background-color: grey;
+    width: 100%;
+    color: white; 
+    font-size: 20px;
+    padding: 0 px;
+    line-height: 60px;
+    text-align: center;
+}
+.head{
+	text-align: left;
+	font-size: 30px; 
+	color: grey;
+}
+#table1{
+	margin-top: 10px;
+}
+
+div{
+  	background-color: grey;
+  	width: 85%;
+ 	border: 10px solid black;
+ 	color: white;
+  	padding: 50px;
+  	margin: 30px;
+  	font-size: 20px;
+}
+.header{
+	text-align: center; 
+	color: grey; 
+	font-size: 30px; 
+	margin-top: 30px; 
+	opacity: 60%;
+}
+a{
+	color:grey; 
+}
